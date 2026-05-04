@@ -33,3 +33,14 @@ MIT
 ---
 
 Part of the **DEFI** dApp collection by [@rukinem](https://github.com/rukinem)
+
+
+## Frontend
+
+```bash
+cd frontend
+npm install
+npm run dev
+```
+
+Open http://localhost:3000 to view the dApp.
